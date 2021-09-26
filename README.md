@@ -1,1 +1,3 @@
 # 15PuzzleApp
+
+This is an app that was created by me and a friend of mine for our Grade 12 Computer Science Final Project. It is an app that allows the user to play a classic puzzle game, called "15 Puzzle." In this game, you start off with a 4x4 tile space that has 15 tiles inside of it, numbered 1 to 15. However, the tiles are not in the correct order. The goal of this puzzle is to move them into the correct order. However, you can only move one tile at a time, and that tile can only be moved to adjacent tiles that are empty. Once the tiles are in order, you have completed the puzzle! Best of luck!
